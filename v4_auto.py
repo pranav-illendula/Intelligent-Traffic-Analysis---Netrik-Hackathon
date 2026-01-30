@@ -3,7 +3,7 @@ import cv2
 
 # ================= CONFIG =================
 COCO_MODEL_PATH = "yolov8s.pt"
-AUTO_MODEL_PATH = "yolo8n.pt"
+AUTO_MODEL_PATH = "yolov8n.pt"
 
 CONF_MARGIN = 0.15
 IOU_MATCH = 0.5
